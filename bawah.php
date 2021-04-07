@@ -2,7 +2,7 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright Pondok Pesantren | Kakau
+        &copy; Copyright Pondok Pesantren Assalafiyah Darussalaf | Kakau
       </div>
     </div>
   </footer><!-- End Footer -->

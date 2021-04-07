@@ -8,7 +8,6 @@ include("atas.php");
 
         <div class="section-title">
           <h2>Formulir Pendaftaran Siswa Baru</h2>
-          <p>Silahkan mengisi formulir di bawah jika anda berminat</p>
         </div>
 
         <div class="row">
@@ -23,7 +22,7 @@ include("atas.php");
       <div class="container">
         <main>
 
-        <h3><strong>Siswa :</strong></h3><br>
+        <h3><strong>Data Siswa :</strong></h3><br>
 
 
                   <div class="col-12">
@@ -61,10 +60,10 @@ include("atas.php");
                     <input type="text"  name="jurusan" class="form-control" id="exampleFormControlInput1">
                   </div><br>
 
-        <h3><strong>Orang Tua :</strong></h3><br>
+                  <h3><strong>Data Orang Tua :</strong></h3><br>
 
                   <div class="col-12">
-                    <label for="text" class="form-label">Ayah</label>
+                    <label for="text" class="form-label">Nama Ayah</label>
                     <input type="text"  name="jurusan" class="form-control" id="exampleFormControlInput1">
                   </div><br>
 
@@ -74,7 +73,7 @@ include("atas.php");
                   </div><br>
 
                   <div class="col-12">
-                    <label for="text" class="form-label">Ibu</label>
+                    <label for="text" class="form-label">Nama Ibu</label>
                     <input type="text"  name="jurusan" class="form-control" id="exampleFormControlInput1">
                   </div><br>
 
@@ -93,6 +92,33 @@ include("atas.php");
                     <textarea  name="alamat" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                   </div><br>
 
+                  <h3><strong>Data Wali (Wakil Orang Tua) :</strong></h3><br>
+
+                  <div class="col-12">
+                    <label for="text" class="form-label">Suami</label>
+                    <input type="text"  name="jurusan" class="form-control" id="exampleFormControlInput1">
+                  </div><br>
+
+                  <div class="col-12">
+                    <label for="text" class="form-label">Istri</label>
+                    <input type="text"  name="jurusan" class="form-control" id="exampleFormControlInput1">
+                  </div><br>
+
+                  <div class="col-12">
+                    <label for="text" class="form-label">Pekerjaan Suami</label>
+                    <input type="text"  name="jurusan" class="form-control" id="exampleFormControlInput1">
+                  </div><br>
+
+                  <div class="col-12">
+                    <label for="text" class="form-label">Pekerjaan Istri</label>
+                    <input type="text"  name="jurusan" class="form-control" id="exampleFormControlInput1">
+                  </div><br>
+
+                  <div class="col-12">
+                    <label for="text" class="form-label">Alamat Wali</label>
+                    <textarea  name="alamat" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                  </div><br>
+
                 <div class="col-12">
                   <hr>
                   <button class="w-100 btn btn-success btn-lg" name="submit" type="submit">Simpan</button>
@@ -103,10 +129,11 @@ include("atas.php");
               </div>  
             </div>
           </form>
+          </body>
         </div>
       </main>   
     </div>
-  </body>
+
 
           </div>
 

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Pondok Pesantren</title>
+  <title>Pondok Pesantren Assalafiyah Darussalaf</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -41,7 +41,7 @@
   <section id="topbar" class="d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com">darussalafyysn@gmail.com</a>
+        <i class="bi bi-envelope-fill"></i><a href="darussalafyysn@gmail.com">darussalafyysn@gmail.com</a>
         <i class="bi bi-phone-fill phone-icon"></i> 0231 635487
       </div>
       <div class="social-links d-none d-md-block">
@@ -55,7 +55,7 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.php">Pondok Pesantren</a></h1>
+      <h1 class="logo me-auto"><a href="index.php"><img src="assets/img/jenjang-pendidikan/ponpes.png" class="img-fluid" alt=""></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -72,10 +72,9 @@
           </li>
           <li class="dropdown"><a href="#"><span>Pendidikan</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="tk-islam.php">TK Islam</a></li>
-              <li><a href="madrasah-ibtidaiyah.php">Madrasah Ibtidaiyah</a></li>
-              <li><a href="madrasah-tsanawiyah.php">Madrasah Tsanawiyah</a></li>
-              <li><a href="madrasah-aliyah.php">Madrasah Aliyah</a></li>
+              <li><a href="ponpes.php">Pondok Pesanteren</a></li>
+              <li><a href="MA.php">Madarussalaf Lemahabang</a></li>
+              <li><a href="smp-darussalaf.php">SMP Darussalaf</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto " href="kontak.php">Kontak</a></li>

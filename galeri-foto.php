@@ -12,7 +12,7 @@ include("all-jumbotron.php");
       <div class="container">
 
         <div class="section">  
-        <h2>Galeri Foto</h2>
+        <h2><strong>Galeri Foto</strong></h2>
         </div>
 
         <div class="row">
@@ -26,52 +26,16 @@ include("all-jumbotron.php");
         </div>
 
         <div class="row portfolio-container">
-    <!--  Kegiatan -->
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-    <!-- Akhir Kegiatan -->
 
     <!-- Pondok -->
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+
+      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+      
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/foto-pondok/WhatsApp Image 2021-03-25 at 13.22.51.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <p>Card</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox""><i class="bx bx-search"></i></a>
+                  <a href="assets/img/foto-pondok/WhatsApp Image 2021-03-25 at 13.22.51.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox""><i class="bx bx-search"></i></a>
                 </div>
               </div>
             </div>
@@ -79,29 +43,319 @@ include("all-jumbotron.php");
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <img src="assets/img/foto-pondok/WhatsApp Image 2021-03-25 at 13.22.53 (1).jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <p>Card</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox""><i class="bx bx-search"></i></a>
+                  <a href="assets/img/foto-pondok/WhatsApp Image 2021-03-25 at 13.22.53 (1).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox""><i class="bx bx-search"></i></a>
                 </div>
               </div>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox""><i class="bx bx-search"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
+          
     <!-- Akhir Pondok -->
+
+    <!--  Kegiatan -->
+          
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.52 (2).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.52 (2).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.52.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.52.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.52 (1).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.52 (1).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.53 (2).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.53 (2).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.53.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.53.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.54 (1).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.54 (1).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.54 (2).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.54 (2).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.51 (1).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.51 (1).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.54.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.54.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.55 (1).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.55 (1).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.55 (2).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.55 (2).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.56 (1).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.56 (1).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.55.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.55.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.56 (2).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.56 (2).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.56.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.56.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.57 (1).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.57 (1).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.57.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.57.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.58 (1).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.58 (1).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.58 (2).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.58 (2).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.58.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.58.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.59 (1).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.59 (1).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.59 (2).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.59 (2).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.59.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.22.59.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.23.00 (1).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.23.00 (1).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.23.00 (2).jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.23.00 (2).jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.23.00.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.23.00.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.23.01.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/foto-kegiatan/WhatsApp Image 2021-03-25 at 13.23.01.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+    <!-- Akhir Kegiatan -->
+
+
 
         </div>
 
